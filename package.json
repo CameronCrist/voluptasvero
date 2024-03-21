@@ -1,0 +1,30 @@
+{
+  "name": "voluptasvero",
+  "description": "Node.JS require extension to load TypeScript modules from JS",
+  "author": "GildaBoyle",
+  "license": "MIT",
+  "version": "1.12.0",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CameronCrist/voluptasvero.git"
+  },
+  "dependencies": {
+    "distinctioet": "^1.0.0",
+    "evenietid": "^1.0.0",
+    "recusandaedolor": "^1.0.0",
+    "typescript": ">= 0.8.2",
+    "voluptatesadipisci": "^1.0.0"
+  },
+  "keywords": [
+    "consequatur",
+    "perspiciatis"
+  ],
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
